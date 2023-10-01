@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![An image of @pragy2009's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pragy2009)](https://holopin.io/@pragy2009)
 <!--
 **Pragy2009/pragy2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
