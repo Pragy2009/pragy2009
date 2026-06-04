@@ -1,43 +1,33 @@
-````md
-<!-- Profile view counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=pragy2009&style=flat-square&color=green)
+<!-- Profile views -->
+![](https://komarev.com/ghpvc/?username=pragy2009&style=flat-square&color=00ff41)
 
-# Hello World! 👋
+```
+█▀█ █▀█ ▄▀█ █▀▀ █▄█   █ █ █ █▀█ ▄▀█ █ ▀█▀ █ █
+█▀▀ █▀▄ █▀█ █▄█  █    ██▀██ █▀▄ █▀█ █  █  █▀█
+```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=1000&lines=Hi,+I+am+Pragy+working+as+a+Security+%26+SWE+Intern;Building+RootReaper+Automation+Suite;Sometimes+I+build+cyberpunk+portfolios;Sometimes+I+hunt+vulnerabilities.;Always+learning+something+new.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&width=600&lines=Security+Engineer+%2B+Full-Stack+Developer;Next.js+%7C+React+Three+Fiber+%7C+Penetration+Testing;Building+in+the+shadows+%F0%9F%94%92)](https://git.io/typing-svg)
 
 ```bash
-❯ mefetch
-````
-
-## About@Me
-
-```yaml
+❯ whoami
+```
 Name:           ["Pragy Jha"]
 Role:           ["Security + Software Engineer"]
 Education:      ["Computer Science Engineering"]
-University:     ["Vellore Institute of Technology"]
 
 Specialization:
-  [
     "Security Engineering",
     "DevOps",
     "VAPT",
     "Security Automation"
-  ]
-
+  
 Current Focus:
-  [
     "Offensive Security",
     "Cloud Security",
     "DevSecOps",
     "Threat Hunting"
-  ]
+  
 
-Currently Building:
-  [
-    "RootReaper Automation Suite"
-  ]
 ```
 
 ## 🛠️ Tech Stack
