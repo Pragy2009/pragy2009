@@ -1,34 +1,30 @@
-<!-- Profile views -->
-![](https://komarev.com/ghpvc/?username=pragy2009&style=flat-square&color=00ff41)
+<div id="counter", align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shivanshdgr8&style=flat-square&color=green" alt="Counter"/>
+ </div>
 
-```
-█▀█ █▀█ ▄▀█ █▀▀ █▄█   █ █ █ █▀█ ▄▀█ █ ▀█▀ █ █
-█▀▀ █▀▄ █▀█ █▄█  █    ██▀██ █▀▄ █▀█ █  █  █▀█
-```
+<h1 align="center">
+  Hello World!
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXV0eHBhamVwb3d5bGRiaDlwbmVidjdjY3VkbDFhaDN2OWF2OHdzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wZM2P9l0PWR4dzhZxZ/giphy.gif" width="40px"/>
+</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&width=600&lines=Security+Engineer+%2B+Full-Stack+Developer;Next.js+%7C+React+Three+Fiber+%7C+Penetration+Testing;Building+in+the+shadows+%F0%9F%94%92)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&width=700&lines=Security+Engineer+%7C+Software+Developer;Cybersecurity+%26+Digital+Forensics;VAPT+%7C+Cloud+Security+%7C+DevSecOps;AWS+Academy+Certified+%7C+Security+Automation;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
-```bash
+```css
 ❯ whoami
 ```
-Name:           ["Pragy Jha"]
-Role:           ["Security + Software Engineer"]
-Education:      ["Computer Science Engineering"]
 
-Specialization:
-    "Security Engineering",
-    "DevOps",
-    "VAPT",
-    "Security Automation"
+<div style="display:block;text-align:left"><img align="left" src="https://cdn.simpleicons.org/kalilinux" border="0" style="width:156px;">
   
-Current Focus:
-    "Offensive Security",
-    "Cloud Security",
-    "DevSecOps",
-    "Threat Hunting"
-  
-
+  ```css
+  About@Me
+  -----------------
+  Name: ["Pragy Jha"]
+  Role: ["Security + Software Engineer"]
+  Education: ["Computer Science Engineering"]
+  Specialization: ["Security Engineering, VAPT, Security Automation, Software Engineering"]
+  Current Focus: ["Offensive Security, Cloud Security, DevSecOps, Threat Hunting"]
 ```
+
 
 ## 🛠️ Tech Stack
 
@@ -40,24 +36,6 @@ Current Focus:
 <img src="https://skillicons.dev/icons?i=python" />
 <img src="https://skillicons.dev/icons?i=dart" />
 <img src="https://skillicons.dev/icons?i=bash" />
-</p>
-
-### Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=nextjs" />
-<img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=flutter" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://skillicons.dev/icons?i=postgresql" />
 </p>
 
 ### Security & Infrastructure
@@ -74,29 +52,20 @@ Current Focus:
 
 <p>
 <img src="https://cdn.simpleicons.org/kalilinux" width="48" title="Kali Linux"/>
+<img src="https://cdn.simpleicons.org/burpsuite" width="48" title="Burp Suite"/>
 <img src="https://cdn.simpleicons.org/wireshark" width="48" title="Wireshark"/>
+<img src="https://cdn.simpleicons.org/metasploit" width="48" title="Metasploit"/>
+<img src="https://cdn.simpleicons.org/owasp" width="48" title="OWASP ZAP"/>
 <img src="https://cdn.simpleicons.org/openvpn" width="48" title="OpenVPN"/>
 </p>
 
-```text
-Burp Suite • Nmap • Metasploit
-Nessus • OWASP ZAP • SQLMap
-Gobuster • Hydra • Netcat
-```
+### Pentesting Arsenal
 
----
-
-## 🚀 Featured Projects
-
-| Project                     | Description                                           |
-| --------------------------- | ----------------------------------------------------- |
-| RootReaper Automation Suite | Enterprise-grade VAPT Automation Framework            |
-| CryptoMancer                | Multi-algorithm Encryption Suite built using C++ & Qt |
-| KeySafe Vault               | Secure Credential Management System                   |
-| Shopify Data Platform       | Multi-tenant Shopify Analytics Platform               |
-| SnapSpeak Translator        | Image-to-Text Translation System                      |
-
----
+<p>
+<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Netcat-000000?style=for-the-badge" />
+</p>
 
 ## 📊 GitHub Stats
 
